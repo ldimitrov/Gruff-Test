@@ -2,4 +2,10 @@
 
 Project is intended only for an experiment and test. 
 
+Screenshots:
+
+![chart](https://github.com/ldimitrov/Gruff-Test/blob/master/a_more_advanced_graph.png)
+
+![chart](https://github.com/ldimitrov/Gruff-Test/blob/master/my_fruity_graph.png)
+
 Lyuben Dimitrov
